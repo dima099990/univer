@@ -1,5 +1,3 @@
-import random
-
 N = int(input('Введите кол-во секунд: '))
 while N >= 3601:
     N = N - 3600
