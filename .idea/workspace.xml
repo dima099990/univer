@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3504bb52-a3a5-4d0c-9a78-8692378be812" name="Default Changelist" comment="Edit file">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/univer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/univer.iml" afterDir="false" />
+    <list default="true" id="3504bb52-a3a5-4d0c-9a78-8692378be812" name="Default Changelist" comment="Completed 3.1 lab">
+      <change afterPath="$PROJECT_DIR$/lab3/main3,2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/1,2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/1,2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/main2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +28,19 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="17e1c2de-602d-4593-aa7d-7a51ff71095e" />
+        <option name="url" value="https://github.com/dima099990/univer" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -37,14 +52,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/pythonProject/univer",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/pythonProject/univer&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679556639887</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed 3.1 lab">
+      <created>1679558706037</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679558706037</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Completed 3.1 lab">
+      <created>1679558722539</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679558722539</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +111,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Edit file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit file" />
+    <MESSAGE value="Completed 3.1 lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed 3.1 lab" />
   </component>
 </project>
