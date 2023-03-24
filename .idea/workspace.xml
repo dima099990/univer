@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3504bb52-a3a5-4d0c-9a78-8692378be812" name="Default Changelist" comment="Completed 3.1 lab">
-      <change afterPath="$PROJECT_DIR$/lab3/main3,2.py" afterDir="false" />
+    <list default="true" id="3504bb52-a3a5-4d0c-9a78-8692378be812" name="Default Changelist" comment="Added 3.1 form and comleted 1;1.2;2;3.1&#10;added 3.2 .py file">
+      <change afterPath="$PROJECT_DIR$/lab4/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab1/1,2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/1,2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab2/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/main2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679558722539</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added 3.1 form and comleted 1;1.2;2;3.1&#10;added 3.2 .py file">
+      <created>1679567029774</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679567029774</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +117,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Edit file" />
     <MESSAGE value="Completed 3.1 lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed 3.1 lab" />
+    <MESSAGE value="Added 3.1 form and comleted 1;1.2;2;3.1&#10;added 3.2 .py file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 3.1 form and comleted 1;1.2;2;3.1&#10;added 3.2 .py file" />
   </component>
 </project>

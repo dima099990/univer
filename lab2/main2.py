@@ -8,7 +8,7 @@ A = Entry(width=20)
 # создание полей на форме
 btn_ok = Button(text='Рассчитать')
 btn_clear = Button(text='Очистить')
-lbl = Label(bg='black', fg='white', width=80)
+lbl = Label(bg='black', fg='white', width=40)
 lbl2 = Label(bg='black', fg='white', width=80)
 lbl3 = Label(bg='white', fg='white', width=80)
 lbl4 = Label(bg='black', fg='white', width=80)
