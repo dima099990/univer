@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3504bb52-a3a5-4d0c-9a78-8692378be812" name="Default Changelist" comment="Added 3.1 form and comleted 1;1.2;2;3.1&#10;added 3.2 .py file">
-      <change afterPath="$PROJECT_DIR$/lab4/main.py" afterDir="false" />
+    <list default="true" id="3504bb52-a3a5-4d0c-9a78-8692378be812" name="Default Changelist" comment="complete 4.1">
+      <change afterPath="$PROJECT_DIR$/form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/form.ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/1,2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/1,2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/main2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/form.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/form.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/form.ui" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/form.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679567029774</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="complete 4.1">
+      <created>1679645213908</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679645213908</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +128,7 @@
     <MESSAGE value="Edit file" />
     <MESSAGE value="Completed 3.1 lab" />
     <MESSAGE value="Added 3.1 form and comleted 1;1.2;2;3.1&#10;added 3.2 .py file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 3.1 form and comleted 1;1.2;2;3.1&#10;added 3.2 .py file" />
+    <MESSAGE value="complete 4.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete 4.1" />
   </component>
 </project>
