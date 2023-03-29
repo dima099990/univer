@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3504bb52-a3a5-4d0c-9a78-8692378be812" name="Default Changelist" comment="completed 4.1 &#10;completed 4.1 form">
-      <change afterPath="$PROJECT_DIR$/lab5/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/main3.py" afterDir="false" />
+    <list default="true" id="3504bb52-a3a5-4d0c-9a78-8692378be812" name="Default Changelist" comment="lab 5.1-5.3 completed">
+      <change afterPath="$PROJECT_DIR$/lab6/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679654688337</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lab 5.1-5.3 completed">
+      <created>1679657569085</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679657569085</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +144,7 @@
     <MESSAGE value="Added 3.1 form and comleted 1;1.2;2;3.1&#10;added 3.2 .py file" />
     <MESSAGE value="complete 4.1" />
     <MESSAGE value="completed 4.1 &#10;completed 4.1 form" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed 4.1 &#10;completed 4.1 form" />
+    <MESSAGE value="lab 5.1-5.3 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 5.1-5.3 completed" />
   </component>
 </project>
