@@ -1,13 +1,25 @@
-from openpyxl import Workbook
-from config import *
+from openpyxl import load_workbook
+from tkinter import *
+from tkinter import messagebox
 
-fn = file_name
-wb = Workbook()
-ws = wb.active
+def save():
+    fn='main.xlsx'
+    wb=load_workbook(fn)
+    ws=wb['Sheet1']
+    data=(e.get(),lb['text'])
+    ws.append(data)
+    wb.save(fn)
+    wb.close()
+    messagebox.askokcancel('Сохранение','Успешно сохранено')
 
-columns=['id','name', 'occupation'])
-ws.append(['№ п\п', 'статьи затрат', '2014','2015','отклонения'])
-ws.append(['1','2','3'])
-ws.append(['1','2','3','4','5','6','7','8','9'])
-wb.save(fn)
-wb.close()
+root=Tk()
+root.title('Test')
+root.geometry('200x200')
+root.resizable(0,0)
+e=Entry(root)
+e.pack()
+lb=Label(root,text='1',font='Arial 15 bold')
+lb.pack()
+btn=Button(root,text='save',font='Arial 15 bold',command=save)
+btn.pack()
+root.mainloop()

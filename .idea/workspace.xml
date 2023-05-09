@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3504bb52-a3a5-4d0c-9a78-8692378be812" name="Default Changelist" comment="removed venv">
-      <change afterPath="$PROJECT_DIR$/lab8/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab8/test2.py" afterDir="false" />
+    <list default="true" id="3504bb52-a3a5-4d0c-9a78-8692378be812" name="Default Changelist" comment="testing pandas">
+      <change afterPath="$PROJECT_DIR$/lab8/no.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab8/test3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_04_2023_20_40__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab8/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab8/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab8/main.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/lab8/main.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab8/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +45,8 @@
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Dima/univer/lab8",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "last_opened_file_path": "C:/Dima/univer",
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -103,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682007623383</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="testing pandas">
+      <created>1682010772951</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682010772951</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +134,8 @@
     <MESSAGE value="7 lab completed by chatGPT" />
     <MESSAGE value="8 lab start" />
     <MESSAGE value="removed venv" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed venv" />
+    <MESSAGE value="testing pandas" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing pandas" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/univer$python_exe.coverage" NAME="F Coverage Results" MODIFIED="1681322488551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
