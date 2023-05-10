@@ -1,4 +1,4 @@
-@set "VIRTUAL_ENV=C:\Dima\univer\venv"
+@set "VIRTUAL_ENV=D:\pythonProject\univer\venv"
 
 @if defined _OLD_VIRTUAL_PROMPT (
     @set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
