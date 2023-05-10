@@ -1,4 +1,4 @@
-s=str(input('Введите строку'))
+s=str(input('Введите строку: '))
 flag=1
 string=''
 s=s.lower()

@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3504bb52-a3a5-4d0c-9a78-8692378be812" name="Default Changelist" comment="lab 3.2 compl.">
-      <change afterPath="$PROJECT_DIR$/lab4/main2.py" afterDir="false" />
+    <list default="true" id="3504bb52-a3a5-4d0c-9a78-8692378be812" name="Default Changelist" comment="lab 4.2 compl.">
+      <change afterPath="$PROJECT_DIR$/lab7/main2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/main2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683706333103</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lab 4.2 compl.">
+      <created>1683707283125</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683707283125</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +221,7 @@
     <MESSAGE value="lab 5.1-5.3 completed" />
     <MESSAGE value="lab 6 completed" />
     <MESSAGE value="lab 3.2 compl." />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 3.2 compl." />
+    <MESSAGE value="lab 4.2 compl." />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 4.2 compl." />
   </component>
 </project>
